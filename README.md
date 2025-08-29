@@ -11,3 +11,6 @@
 - Part 4: [Apache Hive](https://docs.google.com/document/d/1SxFsKkF76FUX2ctr0pkmRbbbqQJBHvGiMtwZcnpJECs/edit?tab=t.0)   
 - Part 5: [Apache Spark](https://docs.google.com/document/d/11N5TOF37ENV1nthbLtmSdPlkjI7KuaYidt-gc4XzGNU/edit?tab=t.0)
 - Part 6: [Apache Kafka](https://docs.google.com/document/d/1hcvC69A28BBUBYh6Cmpw80YT7isyh2dX2O9GWAQJ4MI/edit?usp=sharing)
+
+## Tài liệu phỏng vấn
+- Part 1: [Tips](https://docs.google.com/document/d/1ya6684MRKgPdSSDcAXcXaekV1gotrgTjG17g7LOngCY/edit?tab=t.0#heading=h.ysif4f6xturb)

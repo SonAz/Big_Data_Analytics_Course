@@ -1,4 +1,10 @@
 # Big_Data_Analytics_Course
+
+  <td>
+    <img src="https://github.com/SonAz/Big_Data_Analytics_Course/blob/main/image/Artboard%201.png" alt="png" align="center"/>
+  </td>
+
+  
 ## Lý thuyết
 - Part 1: [Tổng quan về Data Engineer](https://docs.google.com/document/d/1EhP2Q3VoQQzu7XxLWYizVqEqhMFHqOYCOGWVhQqiW28/edit?usp=sharing)
 - Part 2: [Big Data Tutorials](https://docs.google.com/document/d/15aNk6cEW_XPBxUirWHEAgTjl0aeYrq_-I0Rh_h5I_GU/edit?tab=t.0#heading=h.bv8d183h2wvq)

@@ -1,4 +1,4 @@
-# Big_Data_Analytics_Course
+# Big_Data_Course
 
   <td>
     <img src="https://github.com/SonAz/Big_Data_Analytics_Course/blob/main/image/Artboard%201.png" alt="png" align="center"/>

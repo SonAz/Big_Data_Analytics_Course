@@ -6,10 +6,9 @@
 
   
 ## Lý thuyết
-- Part 1: [Tổng quan về Data Engineer](https://docs.google.com/document/d/1EhP2Q3VoQQzu7XxLWYizVqEqhMFHqOYCOGWVhQqiW28/edit?usp=sharing)
-- Part 2: [Big Data Tutorials](https://docs.google.com/document/d/15aNk6cEW_XPBxUirWHEAgTjl0aeYrq_-I0Rh_h5I_GU/edit?tab=t.0#heading=h.bv8d183h2wvq)
-- Part 3: [Data Warehouse](https://docs.google.com/document/d/1O6jdSem_M5d2IwxtBGoAFV1cFIg2-UzRT3l8k9CXybw/edit?usp=sharing)
-- Part 4: [Data Lake](https://docs.google.com/document/d/1UO63WxDbTrZ7NEK00eifPjbvCOnFpCJAYRR4O34gZdk/edit?usp=sharing)
+- Part 1: [Big Data Tutorials](https://docs.google.com/document/d/15aNk6cEW_XPBxUirWHEAgTjl0aeYrq_-I0Rh_h5I_GU/edit?tab=t.0#heading=h.bv8d183h2wvq)
+- Part 2: [Data Warehouse](https://docs.google.com/document/d/1O6jdSem_M5d2IwxtBGoAFV1cFIg2-UzRT3l8k9CXybw/edit?usp=sharing)
+- Part 3: [Data Lake](https://docs.google.com/document/d/1UO63WxDbTrZ7NEK00eifPjbvCOnFpCJAYRR4O34gZdk/edit?usp=sharing)
 
 ## Công cụ
 - Part 1: [Set up Hadoop Cluster](https://docs.google.com/document/d/15mHJC7PxNwnKRpbk_Q-D7mPXwMALHV3fo3yp4UJBGos/edit?tab=t.0#heading=h.ulruwnnhwqrm)

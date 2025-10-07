@@ -10,6 +10,9 @@
 - Part 2: [Data Engineer Roadmap](https://roadmap.sh/data-engineer)
 - Part 3: [Data Warehouse](https://docs.google.com/document/d/1O6jdSem_M5d2IwxtBGoAFV1cFIg2-UzRT3l8k9CXybw/edit?usp=sharing)
 - Part 4: [Data Lake](https://docs.google.com/document/d/1UO63WxDbTrZ7NEK00eifPjbvCOnFpCJAYRR4O34gZdk/edit?usp=sharing)
+- Part 5: [Python Essentials for Data Engineers](https://www.startdataengineering.com/post/python-for-de/#extract--load-read-and-write-data-to-any-system)
+- Part 6: [Power BI Tutorial | Learn Power BI](https://www.geeksforgeeks.org/power-bi/power-bi-tutorial)
+- Part 7: [ETL Tutorial: Get Started with ETL](https://docs.google.com/document/d/1UO63WxDbTrZ7NEK00eifPjbvCOnFpCJAYRR4O34gZdk/edit?usp=sharing)
 
 ## Công cụ
 - Part 1: [Set up Hadoop Cluster](https://docs.google.com/document/d/15mHJC7PxNwnKRpbk_Q-D7mPXwMALHV3fo3yp4UJBGos/edit?tab=t.0#heading=h.ulruwnnhwqrm)
